@@ -11,9 +11,15 @@ namespace $rootnamespace$
     public class $safeitemname$
     {
         [Test]
-        public void TestMethod()
+        public void TestGivenWhenThen()
         {
             // TODO: Add your test code here
+			
+			// Arrange - Given
+			
+			// Act - When
+			
+			// Assert - Then
             Assert.Pass("Your first passing test");
         }
     }
