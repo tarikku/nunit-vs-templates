@@ -9,8 +9,14 @@ Namespace $rootnamespace$
     Public Class $safeitemname$
 
         <Test>
-        Public Sub TestMethod()
+        Public Sub TestGivenWhenThen()
             ' TODO Add your test code here
+            
+            ' Arrange - Given
+            
+            ' Act - When
+            
+            ' Assert - Then
             Assert.Pass("Your first passing test")
         End Sub
 
